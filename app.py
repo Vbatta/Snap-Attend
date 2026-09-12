@@ -5,7 +5,10 @@ from src.screens.student_screen import student_screen
 from src.screens.teacher_screen import teacher_screen
 from src.components.dialog_auto_enroll import auto_enroll_dialog
 def main():
-    
+    st.set_page_config(
+    page_title="SnapAttend - Making Attendance faster using AI",
+    page_icon="https://raw.githubusercontent.com/Vbatta/DDoS-Attack/refs/heads/main/ChatGPT%20Image%20Sep%2012%2C%202026%2C%2008_38_23%20PM.png"
+)
     if 'login_type' not in st.session_state:
         st.session_state['login_type']=None
 
