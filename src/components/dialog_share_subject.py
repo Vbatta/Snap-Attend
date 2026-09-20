@@ -6,7 +6,7 @@ from src.database.db import create_subject
 @st.dialog('Share Code Link')
 def share_subject_dialog(subject_name, subject_code):
 
-    app_domain = "snapattend1-main.streamlit.app"
+    app_domain = "snapattend2-main.streamlit.app"
     join_url = f"{app_domain}/?join-code={subject_code}"
 
     st.header('Scan to Join')
