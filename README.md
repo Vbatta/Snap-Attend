@@ -21,6 +21,11 @@ The system allows:
 ---
 
 ## Application Screens
+### --> Teacher Login
+
+<img width="630" height="400" alt="snap-teacher-flow-1-login" src="https://github.com/user-attachments/assets/6dc0e612-cd9b-44a9-b38f-007e93f2812b" />
+
+---
 
 ### 👨‍🏫 Teacher Dashboard
 
@@ -34,8 +39,11 @@ The system allows:
 - View attendance logs & analytics  
 
 ---
+### --> Student Login
+<img width="630" height="400" alt="snap-student-flow-1-login" src="https://github.com/user-attachments/assets/47471766-7e67-4dcd-9444-b64a7997e60c" />
 
 ### 👨‍🎓 Student Dashboard
+
 <img width="630" height="400" alt="snap-student-flow-3-dashboard" src="https://github.com/user-attachments/assets/ab9b4ab1-1231-43fd-8dfc-a4ccce9fe19b" />
 
 
@@ -47,14 +55,14 @@ The system allows:
 ---
 
 ### 📸 Face Attendance Output
-<img width="630" height="400" alt="snap-student-flow-1-login" src="https://github.com/user-attachments/assets/47471766-7e67-4dcd-9444-b64a7997e60c" />
+
 <img width="630" height="400" alt="snap-teacher-flow-5 2-photo-attendance" src="https://github.com/user-attachments/assets/2d5e0428-3660-4d6b-80e9-30219f3ba063" />
 
 
 ---
 
 ### 🎙️ Voice Attendance Output
-<img width="630" height="400" alt="snap-teacher-flow-5 1-voice-attendance" src="https://github.com/user-attachments/assets/df1efb2a-0540-4656-a808-aad0876debb4" />
+<img width="630" height="450" alt="snap-teacher-flow-5 1-voice-attendance" src="https://github.com/user-attachments/assets/df1efb2a-0540-4656-a808-aad0876debb4" />
 
 
 ---
