@@ -56,6 +56,7 @@ The system allows:
 ### 📲 QR Code for Student Attendance
 <img width="630" height="400" alt="snap-teacher-flow-4-share-qr-or-link" src="https://github.com/user-attachments/assets/a4da0fbb-347f-40da-af66-f50cb3ddc944" />
 
+---
 
 ### 📸 Face Attendance Output
 
