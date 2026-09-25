@@ -25,8 +25,6 @@ The system allows:
 
 <img width="630" height="400" alt="snap-teacher-flow-1-login" src="https://github.com/user-attachments/assets/6dc0e612-cd9b-44a9-b38f-007e93f2812b" />
 
----
-
 ### 👨‍🏫 Teacher Dashboard
 
 <img src="https://github.com/user-attachments/assets/f75ffcb5-1fbc-4c49-b7d0-7ce5bf6bb049" width="630" height="400" alt="Teacher Dashboard"/>
@@ -56,14 +54,14 @@ The system allows:
 ### 📲 QR Code for Student Attendance
 <img width="630" height="400" alt="snap-teacher-flow-4-share-qr-or-link" src="https://github.com/user-attachments/assets/a4da0fbb-347f-40da-af66-f50cb3ddc944" />
 
----
+
 
 ### 📸 Face Attendance Output
 
 <img width="630" height="400" alt="snap-teacher-flow-5 2-photo-attendance" src="https://github.com/user-attachments/assets/2d5e0428-3660-4d6b-80e9-30219f3ba063" />
 
 
----
+
 
 ### 🎙️ Voice Attendance Output
 <img width="630" height="450" alt="snap-teacher-flow-5 1-voice-attendance" src="https://github.com/user-attachments/assets/df1efb2a-0540-4656-a808-aad0876debb4" />
