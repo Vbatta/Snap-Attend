@@ -7,6 +7,9 @@ SnapAttend is an AI-powered attendance system that automates classroom attendanc
 ---
 
 ##  Overview
+<img width="630" height="300" alt="snap-landing" src="https://github.com/user-attachments/assets/089396df-c227-47ac-b3bc-6bf1deea8365" />
+<br>
+
 
 Traditional attendance systems are time-consuming and prone to errors. SnapAttend solves this by leveraging **Computer Vision + Speech Processing** to automatically detect and mark attendance.
 
@@ -21,9 +24,6 @@ The system allows:
 
 ### 👨‍🏫 Teacher Dashboard
 
-
-<img src="https://github.com/user-attachments/assets/e2f4dc8c-bf5a-4717-8b7f-ad99682594a3" width="350" height="300" alt="Student Dashboard"/>
-
 <img src="https://github.com/user-attachments/assets/f75ffcb5-1fbc-4c49-b7d0-7ce5bf6bb049" width="630" height="400" alt="Teacher Dashboard"/>
 
 
@@ -36,7 +36,7 @@ The system allows:
 ---
 
 ### 👨‍🎓 Student Dashboard
-<img width="630" height="400" alt="snap-student-flow-1-login" src="https://github.com/user-attachments/assets/47471766-7e67-4dcd-9444-b64a7997e60c" />
+<img width="630" height="400" alt="snap-student-flow-3-dashboard" src="https://github.com/user-attachments/assets/ab9b4ab1-1231-43fd-8dfc-a4ccce9fe19b" />
 
 
 - Face-based login  
@@ -47,13 +47,15 @@ The system allows:
 ---
 
 ### 📸 Face Attendance Output
-
+<img width="630" height="400" alt="snap-student-flow-1-login" src="https://github.com/user-attachments/assets/47471766-7e67-4dcd-9444-b64a7997e60c" />
+<img width="630" height="400" alt="snap-teacher-flow-5 2-photo-attendance" src="https://github.com/user-attachments/assets/2d5e0428-3660-4d6b-80e9-30219f3ba063" />
 
 
 ---
 
 ### 🎙️ Voice Attendance Output
-![Voice Attendance](assets/voice_attendance.png)
+<img width="630" height="400" alt="snap-teacher-flow-5 1-voice-attendance" src="https://github.com/user-attachments/assets/df1efb2a-0540-4656-a808-aad0876debb4" />
+
 
 ---
 
@@ -103,6 +105,19 @@ The system allows:
 ## Project Structure
 <img width="300" height="340" alt="image" src="https://github.com/user-attachments/assets/99143563-a1af-4f54-ba1f-cd4127ed1c75" />
 
-## Author
-Vaibhav Batta
+## 👨‍💻 Author
+
+**Vaibhav Batta**  
+📍 Ludhiana, India  
+
+---
+
+## 📬 Contact
+
+- Email: vaibhavbatta777@gmail.com  
+- GitHub: https://github.com/Vbatta  
+
+---
+
+
 
